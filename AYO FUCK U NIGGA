@@ -1143,7 +1143,6 @@ Part2.Size = Vector3.new(2.6355183124542236, 2.6355183124542236, 2.6355183124542
 Part2.Anchored = true
 Part2.BottomSurface = Enum.SurfaceType.Smooth
 Part2.BrickColor = BrickColor.new("Really black")
-Part2.CustomPhysicalProperties = 1.29999995, 0.920000017, 0, 1, 1
 Part2.Material = Enum.Material.Fabric
 Part2.TopParamA = 0
 Part2.TopParamB = 0
@@ -1167,7 +1166,6 @@ UnionOperation4.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation4.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation4.BrickColor = BrickColor.new("Really black")
 UnionOperation4.CanCollide = false
-UnionOperation4.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 UnionOperation4.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation4.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation4.Material = Enum.Material.Concrete
@@ -1183,7 +1181,6 @@ MeshPart5.Size = Vector3.new(0.42140060663223267, 0.42140069603919983, 0.4214008
 MeshPart5.Anchored = true
 MeshPart5.BrickColor = BrickColor.new("Really black")
 MeshPart5.CanCollide = false
-MeshPart5.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart5.brickColor = BrickColor.new("Really black")
 MeshPart6.Name = "Paint"
 MeshPart6.Parent = Model3
@@ -1194,7 +1191,6 @@ MeshPart6.Size = Vector3.new(0.49514520168304443, 2.067380666732788, 2.067456483
 MeshPart6.Anchored = true
 MeshPart6.BrickColor = BrickColor.new("Really black")
 MeshPart6.CanCollide = false
-MeshPart6.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart6.Reflectance = 0.30000001192092896
 MeshPart6.brickColor = BrickColor.new("Really black")
 Model7.Name = "Fixed"
@@ -1211,7 +1207,6 @@ Part8.Size = Vector3.new(2.6355183124542236, 2.6355183124542236, 2.6355183124542
 Part8.Anchored = true
 Part8.BottomSurface = Enum.SurfaceType.Smooth
 Part8.BrickColor = BrickColor.new("Really black")
-Part8.CustomPhysicalProperties = 1.29999995, 0.920000017, 0, 1, 1
 Part8.Material = Enum.Material.Fabric
 Part8.TopParamA = 0
 Part8.TopParamB = 0
@@ -1233,7 +1228,6 @@ MeshPart10.Size = Vector3.new(0.42140060663223267, 0.42140069603919983, 0.421400
 MeshPart10.Anchored = true
 MeshPart10.BrickColor = BrickColor.new("Really black")
 MeshPart10.CanCollide = false
-MeshPart10.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart10.brickColor = BrickColor.new("Really black")
 MeshPart11.Name = "Paint"
 MeshPart11.Parent = Model9
@@ -1246,7 +1240,6 @@ MeshPart11.Size = Vector3.new(0.49514520168304443, 2.067380666732788, 2.06745648
 MeshPart11.Anchored = true
 MeshPart11.BrickColor = BrickColor.new("Really black")
 MeshPart11.CanCollide = false
-MeshPart11.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart11.Reflectance = 0.30000001192092896
 MeshPart11.brickColor = BrickColor.new("Really black")
 UnionOperation12.Name = "Main"
@@ -1262,7 +1255,6 @@ UnionOperation12.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation12.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation12.BrickColor = BrickColor.new("Really black")
 UnionOperation12.CanCollide = false
-UnionOperation12.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 UnionOperation12.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation12.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation12.Material = Enum.Material.Concrete
@@ -1283,7 +1275,6 @@ Part14.Size = Vector3.new(2.6355183124542236, 2.6355183124542236, 2.635518312454
 Part14.Anchored = true
 Part14.BottomSurface = Enum.SurfaceType.Smooth
 Part14.BrickColor = BrickColor.new("Really black")
-Part14.CustomPhysicalProperties = 1.29999995, 0.920000017, 0, 1, 1
 Part14.Material = Enum.Material.Fabric
 Part14.TopParamA = 0
 Part14.TopParamB = 0
@@ -1305,7 +1296,6 @@ MeshPart16.Size = Vector3.new(0.42140060663223267, 0.42140069603919983, 0.421400
 MeshPart16.Anchored = true
 MeshPart16.BrickColor = BrickColor.new("Really black")
 MeshPart16.CanCollide = false
-MeshPart16.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart16.brickColor = BrickColor.new("Really black")
 MeshPart17.Name = "Paint"
 MeshPart17.Parent = Model15
@@ -1318,7 +1308,6 @@ MeshPart17.Size = Vector3.new(0.49514520168304443, 2.067380666732788, 2.06745648
 MeshPart17.Anchored = true
 MeshPart17.BrickColor = BrickColor.new("Really black")
 MeshPart17.CanCollide = false
-MeshPart17.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart17.Reflectance = 0.30000001192092896
 MeshPart17.brickColor = BrickColor.new("Really black")
 UnionOperation18.Name = "Main"
@@ -1334,7 +1323,6 @@ UnionOperation18.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation18.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation18.BrickColor = BrickColor.new("Really black")
 UnionOperation18.CanCollide = false
-UnionOperation18.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 UnionOperation18.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation18.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation18.Material = Enum.Material.Concrete
@@ -1355,7 +1343,6 @@ Part20.Size = Vector3.new(2.6355183124542236, 2.6355183124542236, 2.635518312454
 Part20.Anchored = true
 Part20.BottomSurface = Enum.SurfaceType.Smooth
 Part20.BrickColor = BrickColor.new("Really black")
-Part20.CustomPhysicalProperties = 1.29999995, 0.920000017, 0, 1, 1
 Part20.Material = Enum.Material.Fabric
 Part20.TopParamA = 0
 Part20.TopParamB = 0
@@ -1375,7 +1362,6 @@ MeshPart22.Size = Vector3.new(0.49514520168304443, 2.067380666732788, 2.06745648
 MeshPart22.Anchored = true
 MeshPart22.BrickColor = BrickColor.new("Really black")
 MeshPart22.CanCollide = false
-MeshPart22.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart22.Reflectance = 0.30000001192092896
 MeshPart22.brickColor = BrickColor.new("Really black")
 MeshPart23.Name = "Paint"
@@ -1387,7 +1373,6 @@ MeshPart23.Size = Vector3.new(0.42140060663223267, 0.42140069603919983, 0.421400
 MeshPart23.Anchored = true
 MeshPart23.BrickColor = BrickColor.new("Really black")
 MeshPart23.CanCollide = false
-MeshPart23.CustomPhysicalProperties = 0.00999999978, 0.300000012, 0.5, 1, 1
 MeshPart23.brickColor = BrickColor.new("Really black")
 UnionOperation24.Name = "Main"
 UnionOperation24.Parent = Model21
@@ -1402,7 +1387,6 @@ UnionOperation24.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation24.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation24.BrickColor = BrickColor.new("Really black")
 UnionOperation24.CanCollide = false
-UnionOperation24.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 UnionOperation24.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation24.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 UnionOperation24.Material = Enum.Material.Concrete
@@ -3694,19 +3678,15 @@ while wait() do
 		--Tire Slip
 		if math.ceil((wheel/0.774/speed)*100) < 8 then
 			--Lock Slip
-			v.wheel.CustomPhysicalProperties = PhysicalProperties.new(v.x,z*_WHEELTUNE.WheelLockRatio,v.elast,v.fWeight,v.eWeight)
 			v.Heat = math.max(v.Heat,0)
 		elseif (_Tune.TCSEnabled and cValues.TCS.Value == false and math.ceil((wheel/0.774/speed)*100) > 80) then
 			--TCS Off
-			v.wheel.CustomPhysicalProperties = PhysicalProperties.new(v.x,z*_WHEELTUNE.TCSOffRatio,v.elast,v.fWeight,v.eWeight)
 			v.Heat = math.max(v.Heat,0)
 		elseif math.ceil((wheel/0.774/speed)*100) > 130 then
-			--Wheelspin
-			v.wheel.CustomPhysicalProperties = PhysicalProperties.new(v.x,z*_WHEELTUNE.WheelspinRatio,v.elast,v.fWeight,v.eWeight)		
+			--Wheelspin	
 			v.Heat = math.max(v.Heat,0)
 		else
 			--No Slip
-			v.wheel.CustomPhysicalProperties = PhysicalProperties.new(v.x,z,v.elast,v.fWeight,v.eWeight)
 			v.Heat = math.min(v.Heat,v.BaseHeat)
 		end 
 		
@@ -4781,13 +4761,6 @@ table.insert(cors,sandbox(Script186,function()
 	function DReduce(p)
 		for i,v in pairs(p:GetChildren())do
 			if v:IsA("BasePart") then
-				if v.CustomPhysicalProperties == nil then v.CustomPhysicalProperties = PhysicalProperties.new(v.Material) end
-				v.CustomPhysicalProperties = PhysicalProperties.new(
-					0,
-					v.CustomPhysicalProperties.Friction,
-					v.CustomPhysicalProperties.Elasticity,
-					v.CustomPhysicalProperties.FrictionWeight,
-					v.CustomPhysicalProperties.ElasticityWeight
 				)
 			end
 			DReduce(v)
@@ -4820,24 +4793,10 @@ table.insert(cors,sandbox(Script186,function()
 		--Apply Wheel Density
 		if v.Name=="FL" or v.Name=="FR" or v.Name=="F" then
 			if v:IsA("BasePart") then
-				if v.CustomPhysicalProperties == nil then v.CustomPhysicalProperties = PhysicalProperties.new(v.Material) end
-				v.CustomPhysicalProperties = PhysicalProperties.new(
-					fDensity,
-					v.CustomPhysicalProperties.Friction,
-					v.CustomPhysicalProperties.Elasticity,
-					v.CustomPhysicalProperties.FrictionWeight,
-					v.CustomPhysicalProperties.ElasticityWeight
 				)
 			end
 		else
 			if v:IsA("BasePart") then
-				if v.CustomPhysicalProperties == nil then v.CustomPhysicalProperties = PhysicalProperties.new(v.Material) end
-				v.CustomPhysicalProperties = PhysicalProperties.new(
-					rDensity,
-					v.CustomPhysicalProperties.Friction,
-					v.CustomPhysicalProperties.Elasticity,
-					v.CustomPhysicalProperties.FrictionWeight,
-					v.CustomPhysicalProperties.ElasticityWeight
 				)
 			end		
 		end
@@ -4898,7 +4857,6 @@ table.insert(cors,sandbox(Script186,function()
 		arm.FormFactor=Enum.FormFactor.Custom
 		arm.Size=Vector3.new(_Tune.AxleSize,_Tune.AxleSize,_Tune.AxleSize)
 		arm.CFrame=(v.CFrame*CFrame.new(0,_Tune.StAxisOffset,0))*CFrame.Angles(-math.pi/2,-math.pi/2,0)
-		arm.CustomPhysicalProperties = PhysicalProperties.new(_Tune.AxleDensity,0,0,0,0)
 		arm.TopSurface=Enum.SurfaceType.Smooth
 		arm.BottomSurface=Enum.SurfaceType.Smooth
 		arm.Transparency=1
@@ -5205,7 +5163,6 @@ table.insert(cors,sandbox(Script186,function()
 			weightB.Transparency = 1			
 		end
 		weightB.Size = Vector3.new(_Tune.WeightBSize[1],_Tune.WeightBSize[2],_Tune.WeightBSize[3])
-		weightB.CustomPhysicalProperties = PhysicalProperties.new(((_Tune.Weight*weightScaling)-mass)/(weightB.Size.x*weightB.Size.y*weightB.Size.z),0,0,0,0)
 		weightB.CFrame=(car.DriveSeat.CFrame-car.DriveSeat.Position+center)*CFrame.new(0,_Tune.CGHeight,0)
 	else
 		--Existing Weight Is Too Massive
@@ -5273,19 +5230,6 @@ table.insert(cors,sandbox(Script186,function()
 		end	
 	end
 	getSeats(car)
-	
-	--Store Physical Properties/Remove Mass Function
-	function getPProperties(mod,t)
-		for i,v in pairs(mod:GetChildren()) do
-			if v:IsA("BasePart") then
-				if v.CustomPhysicalProperties == nil then v.CustomPhysicalProperties = PhysicalProperties.new(v.Material) end
-				table.insert(t,{v,v.CustomPhysicalProperties})
-				v.CustomPhysicalProperties = PhysicalProperties.new(
-					0,
-					v.CustomPhysicalProperties.Friction,
-					v.CustomPhysicalProperties.Elasticity,
-					v.CustomPhysicalProperties.FrictionWeight,
-					v.CustomPhysicalProperties.ElasticityWeight
 				)
 			end
 			getPProperties(v,t)
@@ -5307,7 +5251,6 @@ table.insert(cors,sandbox(Script186,function()
 			if child.Name=="SeatWeld" and child:IsA("Weld") then
 				for i,v in pairs(v.Parts) do
 					if v[1]~=nil and v[2]~=nil and v[1]:IsDescendantOf(workspace) then
-						v[1].CustomPhysicalProperties = v[2]
 					end
 				end
 				v.Parts = {}
@@ -6221,7 +6164,6 @@ UnionOperation253.Size = Vector3.new(0.09436330199241638, 0.18673643469810486, 0
 UnionOperation253.Anchored = true
 UnionOperation253.BrickColor = BrickColor.new("Really black")
 UnionOperation253.CanCollide = false
-UnionOperation253.CustomPhysicalProperties = 0.100000001, 0.200000003, 0.5, 1, 1
 UnionOperation253.Material = Enum.Material.SmoothPlastic
 UnionOperation253.Reflectance = 0.20000000298023224
 UnionOperation253.brickColor = BrickColor.new("Really black")
@@ -7153,7 +7095,6 @@ Part331.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part331.Anchored = true
 Part331.BrickColor = BrickColor.new("Black")
 Part331.CanCollide = false
-Part331.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part331.Material = Enum.Material.SmoothPlastic
 Part331.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part331.brickColor = BrickColor.new("Black")
@@ -7169,7 +7110,6 @@ Part333.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part333.Anchored = true
 Part333.BrickColor = BrickColor.new("Black")
 Part333.CanCollide = false
-Part333.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part333.Material = Enum.Material.SmoothPlastic
 Part333.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part333.brickColor = BrickColor.new("Black")
@@ -7185,7 +7125,6 @@ Part335.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part335.Anchored = true
 Part335.BrickColor = BrickColor.new("Black")
 Part335.CanCollide = false
-Part335.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part335.Material = Enum.Material.SmoothPlastic
 Part335.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part335.brickColor = BrickColor.new("Black")
@@ -7201,7 +7140,6 @@ Part337.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part337.Anchored = true
 Part337.BrickColor = BrickColor.new("Black")
 Part337.CanCollide = false
-Part337.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part337.Material = Enum.Material.SmoothPlastic
 Part337.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part337.brickColor = BrickColor.new("Black")
@@ -7217,7 +7155,6 @@ Part339.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part339.Anchored = true
 Part339.BrickColor = BrickColor.new("Black")
 Part339.CanCollide = false
-Part339.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part339.Material = Enum.Material.SmoothPlastic
 Part339.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part339.brickColor = BrickColor.new("Black")
@@ -7233,7 +7170,6 @@ Part341.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part341.Anchored = true
 Part341.BrickColor = BrickColor.new("Black")
 Part341.CanCollide = false
-Part341.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part341.Material = Enum.Material.SmoothPlastic
 Part341.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part341.brickColor = BrickColor.new("Black")
@@ -7249,7 +7185,6 @@ Part343.Size = Vector3.new(0.18053047358989716, 0.18052968382835388, 0.180530160
 Part343.Anchored = true
 Part343.BrickColor = BrickColor.new("Black")
 Part343.CanCollide = false
-Part343.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part343.Material = Enum.Material.SmoothPlastic
 Part343.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part343.brickColor = BrickColor.new("Black")
@@ -7265,7 +7200,6 @@ Part345.Size = Vector3.new(1.5074292421340942, 0.18052968382835388, 0.1805301606
 Part345.Anchored = true
 Part345.BrickColor = BrickColor.new("Really black")
 Part345.CanCollide = false
-Part345.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part345.Material = Enum.Material.SmoothPlastic
 Part345.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part345.brickColor = BrickColor.new("Really black")
@@ -7281,7 +7215,6 @@ Part347.Size = Vector3.new(1.5074292421340942, 0.18052968382835388, 0.1805301606
 Part347.Anchored = true
 Part347.BrickColor = BrickColor.new("Really black")
 Part347.CanCollide = false
-Part347.CustomPhysicalProperties = 0.00999999978, 0, 0, 0, 0
 Part347.Material = Enum.Material.SmoothPlastic
 Part347.TopSurface = Enum.SurfaceType.SmoothNoOutlines
 Part347.brickColor = BrickColor.new("Really black")
@@ -9986,7 +9919,6 @@ Part584.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 Part584.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 Part584.BrickColor = BrickColor.new("Really black")
 Part584.CanCollide = false
-Part584.CustomPhysicalProperties = 0.699999988, 0.200000003, 0.0500000007, 1, 1
 Part584.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 Part584.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 Part584.Material = Enum.Material.SmoothPlastic
@@ -10065,7 +9997,6 @@ Part592.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 Part592.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 Part592.BrickColor = BrickColor.new("Really black")
 Part592.CanCollide = false
-Part592.CustomPhysicalProperties = 0.699999988, 0.200000003, 0.0500000007, 1, 1
 Part592.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 Part592.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 Part592.Material = Enum.Material.SmoothPlastic
@@ -10167,7 +10098,6 @@ Part602.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 Part602.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 Part602.BrickColor = BrickColor.new("Really black")
 Part602.CanCollide = false
-Part602.CustomPhysicalProperties = 0.699999988, 0.200000003, 0.0500000007, 1, 1
 Part602.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 Part602.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 Part602.Material = Enum.Material.SmoothPlastic
@@ -10223,7 +10153,6 @@ Part608.BackSurface = Enum.SurfaceType.SmoothNoOutlines
 Part608.BottomSurface = Enum.SurfaceType.SmoothNoOutlines
 Part608.BrickColor = BrickColor.new("Really black")
 Part608.CanCollide = false
-Part608.CustomPhysicalProperties = 0.699999988, 0.200000003, 0.0500000007, 1, 1
 Part608.FrontSurface = Enum.SurfaceType.SmoothNoOutlines
 Part608.LeftSurface = Enum.SurfaceType.SmoothNoOutlines
 Part608.Material = Enum.Material.SmoothPlastic
